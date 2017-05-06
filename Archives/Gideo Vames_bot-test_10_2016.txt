@@ -1,0 +1,199 @@
+[02/10/2016-10:36:13] Cat_Smoker: .camel
+[02/10/2016-10:36:15] Camel: http://i.imgur.com/l7DHUZH.jpg
+[02/10/2016-13:41:53] Cat_Smoker: .camel
+[02/10/2016-13:41:53] Camel: http://photos.nomadicsamuel.com/India/Thar-Desert/i-9V8KQQF/0/1050x1050/Thar-Desert-Rajasthan-Camel-1050x1050.jpg
+[02/10/2016-19:46:26] Cat_Smoker: .servers au
+[02/10/2016-19:48:24] Cat_Smoker: .camel
+[02/10/2016-19:48:24] Camel: http://s19.postimg.org/oehkbiysj/bm_camel_free.jpg
+[03/10/2016-22:00:14] Cat_Smoker: .connected_servers
+[03/10/2016-22:00:15] Camel: Number of connected servers: 408
+[04/10/2016-21:28:50] Cat_Smoker: .yes
+[04/10/2016-21:28:51] Camel: http://i.imgur.com/F07c8vG.jpg
+[05/10/2016-22:42:13] Cat_Smoker: .ql_servers
+[05/10/2016-22:42:13] Cat_Smoker: .ql_servers
+[05/10/2016-22:42:14] TestingBot: No currently occupied Quake Live servers were found in specified region.
+[05/10/2016-22:42:14] TestingBot: No currently occupied Quake Live servers were found in specified region.
+[05/10/2016-22:42:46] Cat_Smoker: .ql_servers AU
+[05/10/2016-22:42:46] Cat_Smoker: .ql_servers AU
+[05/10/2016-22:42:48] TestingBot: No currently occupied Quake Live servers were found in specified region.
+[05/10/2016-22:42:48] TestingBot: No currently occupied Quake Live servers were found in specified region.
+[05/10/2016-22:46:46] Cat_Smoker: .ql_servers AU
+[05/10/2016-22:46:46] Cat_Smoker: .ql_servers AU
+[05/10/2016-22:46:48] TestingBot: No currently occupied Quake Live servers were found in specified region.
+[05/10/2016-22:46:48] TestingBot: No currently occupied Quake Live servers were found in specified region.
+[05/10/2016-22:48:29] Cat_Smoker: .ql_servers au
+[05/10/2016-22:48:29] Cat_Smoker: .ql_servers au
+[05/10/2016-22:48:31] TestingBot: No currently occupied Quake Live servers were found in specified region.
+[05/10/2016-22:48:31] TestingBot: No currently occupied Quake Live servers were found in specified region.
+[05/10/2016-22:50:00] Cat_Smoker: .ql_servers au
+[05/10/2016-22:50:00] Cat_Smoker: .ql_servers au
+[05/10/2016-22:50:46] Cat_Smoker: .ql_servers au
+[05/10/2016-22:50:46] Cat_Smoker: .ql_servers au
+[05/10/2016-22:50:58] Cat_Smoker: .ql_servers au
+[05/10/2016-22:50:58] Cat_Smoker: .ql_servers au
+[05/10/2016-22:52:04] Cat_Smoker: .ql_servers au
+[05/10/2016-22:52:04] Cat_Smoker: .ql_servers au
+[05/10/2016-22:52:47] Cat_Smoker: .ql_servers au
+[05/10/2016-22:52:47] Cat_Smoker: .ql_servers au
+[05/10/2016-23:00:09] Cat_Smoker: .ql_servers au
+[05/10/2016-23:00:17] Cat_Smoker: .reflex_servers
+[05/10/2016-23:00:18] Camel: Reflex server API dead atm, will re-add this when it's available.
+[05/10/2016-23:00:25] Cat_Smoker: .servers
+[05/10/2016-23:00:26] Camel: Deprecated command. For game servers please use '.reflex_servers <country_code>' or 'ql_servers <country_code>'
+[07/10/2016-11:18:22] Cat_Smoker: . Connected_servers
+[07/10/2016-11:18:23] Camel: Number of connected servers: 411
+[08/10/2016-10:42:21] Cat_Smoker: .invite
+[08/10/2016-10:42:22] Camel: Sending Cat_Smoker an invite URL.
+[09/10/2016-11:22:07] Cat_Smoker: .connected_servers
+[09/10/2016-11:22:08] Camel: Number of connected servers: 416
+[09/10/2016-21:14:19] Cat_Smoker: .reflex_servers
+[09/10/2016-21:14:19] Cat_Smoker: .reflex_servers
+[09/10/2016-21:14:19] Camel: Reflex server API dead atm, will re-add this when it's available.
+[09/10/2016-21:14:22] Camel: Reflex server API dead atm, will re-add this when it's available.
+[09/10/2016-21:14:23] TestingBot: None
+[09/10/2016-21:14:23] TestingBot: None
+[09/10/2016-21:14:40] Cat_Smoker: .ql_servers
+[09/10/2016-21:14:40] Cat_Smoker: .ql_servers
+[09/10/2016-21:15:32] Cat_Smoker: .ql_servers au
+[09/10/2016-21:15:32] Cat_Smoker: .ql_servers au
+[09/10/2016-21:15:33] TestingBot: ```Occupied Quake Live servers for AU:
+
+TOEY'S FFA           |  FFA   |  campgrounds  | 11/24 | 103.25.58.139:27971
+Connected Players: ^1=^4PIT^1=^4D^7v^48 (0), bulletbox (0), ^1=^4P^1i^4T^1=^7Mr^1*^7Bombadil (0), fudge pac0r (0), wiseteroid (0), winegu^1m (0), f r e e r a n g e (0), gotefancypants (0), ^2Python (0), oXo ™ (0), Sam (0)
+----------
+#6 <> Sydney PQL - Clan Arena |   CA   |    trinity    | 11/30 | 125.63.61.78:27960
+Connected Players: ^6Voldak (0), .                              . (0), ^6joj^7o (0), Billy (0), the_bread_maker (0), ^^0Grim^3thane (0), ^4z^7ee (0), Mintys1too (0), todimu^1s (0), megan foxxed (0), ^2[bAx] (0)
+----------
+#0 The Purgery Sydney PQL - Cl |   CA   |  campgrounds  | 12/32 | 103.25.58.139:27960
+Connected Players: ^7Pur^4g^7er (4), ^7Ch^5e^7f (19), jp (14), deadlywarrior1 (10), ^2c^7K^2c^1-^2V^7lad^2i^7mir (6), Ghost (20), -PL- (15), ^1i^2s^4t^3e^6r (12), ^4X2^7C^1* (12), sano (17), kooshkin (4), Phantom72 (5)
+```
+[09/10/2016-21:15:34] TestingBot: ```Occupied Quake Live servers for AU:
+
+TOEY'S FFA           |  FFA   |  campgrounds  | 11/24 | 103.25.58.139:27971
+Connected Players: ^1=^4PIT^1=^4D^7v^48 (0), bulletbox (0), ^1=^4P^1i^4T^1=^7Mr^1*^7Bombadil (0), fudge pac0r (0), wiseteroid (0), winegu^1m (0), f r e e r a n g e (0), gotefancypants (0), ^2Python (0), oXo ™ (0), Sam (0)
+----------
+#6 <> Sydney PQL - Clan Arena |   CA   |    trinity    | 11/30 | 125.63.61.78:27960
+Connected Players: ^6Voldak (0), .                              . (0), ^6joj^7o (0), Billy (0), the_bread_maker (0), ^^0Grim^3thane (0), ^4z^7ee (0), Mintys1too (0), todimu^1s (0), megan foxxed (0), ^2[bAx] (0)
+----------
+#0 The Purgery Sydney PQL - Cl |   CA   |  campgrounds  | 12/32 | 103.25.58.139:27960
+Connected Players: ^7Pur^4g^7er (4), ^7Ch^5e^7f (19), jp (14), deadlywarrior1 (10), ^2c^7K^2c^1-^2V^7lad^2i^7mir (6), Ghost (20), -PL- (15), ^1i^2s^4t^3e^6r (12), ^4X2^7C^1* (12), sano (17), kooshkin (4), Phantom72 (5)
+```
+[09/10/2016-21:15:34] Camel: ```Occupied Quake Live servers for AU:
+
+TOEY'S FFA           |  FFA   |  campgrounds  | 11/24 | 103.25.58.139:27971
+Connected Players: ^1=^4PIT^1=^4D^7v^48 (0), bulletbox (0), ^1=^4P^1i^4T^1=^7Mr^1*^7Bombadil (0), fudge pac0r (0), wiseteroid (0), winegu^1m (0), f r e e r a n g e (0), gotefancypants (0), ^2Python (0), oXo ™ (0), Sam (0)
+----------
+#6 <> Sydney PQL - Clan Arena |   CA   |    trinity    | 11/30 | 125.63.61.78:27960
+Connected Players: ^6Voldak (0), .                              . (0), ^6joj^7o (0), Billy (0), the_bread_maker (0), ^^0Grim^3thane (0), ^4z^7ee (0), Mintys1too (0), todimu^1s (0), megan foxxed (0), ^2[bAx] (0)
+----------
+#0 The Purgery Sydney PQL - Cl |   CA   |  campgrounds  | 12/32 | 103.25.58.139:27960
+Connected Players: ^7Pur^4g^7er (4), ^7Ch^5e^7f (19), jp (14), deadlywarrior1 (10), ^2c^7K^2c^1-^2V^7lad^2i^7mir (6), Ghost (20), -PL- (15), ^1i^2s^4t^3e^6r (12), ^4X2^7C^1* (12), sano (17), kooshkin (4), Phantom72 (5)
+```
+[09/10/2016-21:15:34] Camel: ```Occupied Quake Live servers for AU:
+
+TOEY'S FFA           |  FFA   |  campgrounds  | 11/24 | 103.25.58.139:27971
+Connected Players: ^1=^4PIT^1=^4D^7v^48 (0), bulletbox (0), ^1=^4P^1i^4T^1=^7Mr^1*^7Bombadil (0), fudge pac0r (0), wiseteroid (0), winegu^1m (0), f r e e r a n g e (0), gotefancypants (0), ^2Python (0), oXo ™ (0), Sam (0)
+----------
+#6 <> Sydney PQL - Clan Arena |   CA   |    trinity    | 11/30 | 125.63.61.78:27960
+Connected Players: ^6Voldak (0), .                              . (0), ^6joj^7o (0), Billy (0), the_bread_maker (0), ^^0Grim^3thane (0), ^4z^7ee (0), Mintys1too (0), todimu^1s (0), megan foxxed (0), ^2[bAx] (0)
+----------
+#0 The Purgery Sydney PQL - Cl |   CA   |  campgrounds  | 12/32 | 103.25.58.139:27960
+Connected Players: ^7Pur^4g^7er (4), ^7Ch^5e^7f (19), jp (14), deadlywarrior1 (10), ^2c^7K^2c^1-^2V^7lad^2i^7mir (6), Ghost (20), -PL- (15), ^1i^2s^4t^3e^6r (12), ^4X2^7C^1* (12), sano (17), kooshkin (4), Phantom72 (5)
+```
+[09/10/2016-21:15:42] Cat_Smoker: .reflex_servers au
+[09/10/2016-21:15:42] Cat_Smoker: .reflex_servers au
+[09/10/2016-21:15:42] Camel: Reflex server API dead atm, will re-add this when it's available.
+[09/10/2016-21:15:43] Camel: Reflex server API dead atm, will re-add this when it's available.
+[09/10/2016-21:15:44] TestingBot: None
+[09/10/2016-21:15:44] TestingBot: None
+[09/10/2016-21:18:09] Cat_Smoker: .reflex_servers au
+[09/10/2016-21:18:09] Cat_Smoker: .reflex_servers au
+[09/10/2016-21:18:10] Camel: Reflex server API dead atm, will re-add this when it's available.
+[09/10/2016-21:18:10] Camel: Reflex server API dead atm, will re-add this when it's available.
+[09/10/2016-21:18:11] TestingBot: None
+[09/10/2016-21:18:11] TestingBot: None
+[09/10/2016-21:20:10] Cat_Smoker: .reflex_servers au
+[09/10/2016-21:20:10] Cat_Smoker: .reflex_servers au
+[09/10/2016-21:20:10] Camel: Reflex server API dead atm, will re-add this when it's available.
+[09/10/2016-21:20:13] Camel: Reflex server API dead atm, will re-add this when it's available.
+[09/10/2016-21:20:14] TestingBot: No currently occupied Reflex servers were found in specified region.
+[09/10/2016-21:20:14] TestingBot: No currently occupied Reflex servers were found in specified region.
+[09/10/2016-21:21:26] Cat_Smoker: .reflex_servers au
+[09/10/2016-21:21:26] Cat_Smoker: .reflex_servers au
+[09/10/2016-21:21:27] Camel: Reflex server API dead atm, will re-add this when it's available.
+[09/10/2016-21:21:27] Camel: Reflex server API dead atm, will re-add this when it's available.
+[09/10/2016-21:21:27] TestingBot: No currently occupied Reflex servers were found in specified region.
+[09/10/2016-21:21:28] TestingBot: No currently occupied Reflex servers were found in specified region.
+[09/10/2016-21:24:46] Cat_Smoker: .reflex_servers au
+[09/10/2016-21:24:46] Cat_Smoker: .reflex_servers au
+[09/10/2016-21:24:47] Camel: Reflex server API dead atm, will re-add this when it's available.
+[09/10/2016-21:24:47] Camel: Reflex server API dead atm, will re-add this when it's available.
+[09/10/2016-21:24:47] TestingBot: No currently occupied Reflex servers were found in specified region.
+[09/10/2016-21:24:47] TestingBot: No currently occupied Reflex servers were found in specified region.
+[11/10/2016-19:33:19] Cat_Smoker: .reflex_servers au
+[11/10/2016-19:33:19] Cat_Smoker: .reflex_servers au
+[11/10/2016-19:33:20] Camel: Reflex server API dead atm, will re-add this when it's available.
+[11/10/2016-19:33:20] Camel: Reflex server API dead atm, will re-add this when it's available.
+[11/10/2016-19:33:21] TestingBot: ```Occupied Reflex servers for AU:
+
+Reflex AU #1         |  1v1   |      Ruin     | 2 /8  | 45.121.209.52:25788
+Connected Players: HunteR (22), Cake. Ice Cream (0)
+```
+[11/10/2016-19:33:21] TestingBot: ```Occupied Reflex servers for AU:
+
+Reflex AU #1         |  1v1   |      Ruin     | 2 /8  | 45.121.209.52:25788
+Connected Players: HunteR (22), Cake. Ice Cream (0)
+```
+[11/10/2016-19:35:27] Cat_Smoker: .reflex_servers au
+[11/10/2016-19:35:28] Camel: ```Occupied Reflex servers for AU:
+
+Reflex AU #1         |  1v1   |      Ruin     | 2 /8  | 45.121.209.52:25788
+Connected Players: HunteR (0), Cake. Ice Cream (0)
+```
+[11/10/2016-19:41:37] Cat_Smoker: .reflex au
+[11/10/2016-19:41:37] Cat_Smoker: .reflex au
+[11/10/2016-19:41:39] TestingBot: ```Occupied Reflex servers for AU:
+
+Reflex AU #1         |  1v1   |      Ruin     | 2 /8  | 45.121.209.52:25788
+Connected Players: HunteR (15), Cake. Ice Cream (1)
+```
+[11/10/2016-19:41:39] TestingBot: ```Occupied Reflex servers for AU:
+
+Reflex AU #1         |  1v1   |      Ruin     | 2 /8  | 45.121.209.52:25788
+Connected Players: HunteR (15), Cake. Ice Cream (1)
+```
+[11/10/2016-19:41:43] Cat_Smoker: .quakelive au
+[11/10/2016-19:41:43] Cat_Smoker: .quakelive au
+[11/10/2016-19:41:48] TestingBot: ```Occupied Quake Live servers for AU:
+
+Reythe's Duel House  |  Duel  |    bloodrun   | 2 /24 | 119.252.27.101:27969
+Connected Players: bodgey (3), dtothep (1)
+----------
+#0 The Purgery Sydney PQL - Cl |   CA   |  campgrounds  | 14/32 | 103.25.58.139:27960
+Connected Players: ^2VADER (0), ^2fla^7s^2h (26), n^11^7ceu (26), ^7Pur^4g^7er (0), ^2P^7uma (33), todimu^1s (28), ^2[bAx] (42), ^2Suspicious (25), CanOfMeow (15), ,-' Madhatt_nz (18), dk|^1^^0smokin (13), merozollo (0), ac0nix (24), deemmaan (0)
+----------
+#6 The Purgery Sydney VQL - Du |  Duel  | furiousheights| 2 /24 | 103.25.58.139:27966
+Connected Players: i[97] Doug (23), 404 (0)
+```
+[11/10/2016-19:41:48] TestingBot: ```Occupied Quake Live servers for AU:
+
+Reythe's Duel House  |  Duel  |    bloodrun   | 2 /24 | 119.252.27.101:27969
+Connected Players: bodgey (3), dtothep (1)
+----------
+#0 The Purgery Sydney PQL - Cl |   CA   |  campgrounds  | 14/32 | 103.25.58.139:27960
+Connected Players: ^2VADER (0), ^2fla^7s^2h (26), n^11^7ceu (26), ^7Pur^4g^7er (0), ^2P^7uma (33), todimu^1s (28), ^2[bAx] (42), ^2Suspicious (25), CanOfMeow (15), ,-' Madhatt_nz (18), dk|^1^^0smokin (13), merozollo (0), ac0nix (24), deemmaan (0)
+----------
+#6 The Purgery Sydney VQL - Du |  Duel  | furiousheights| 2 /24 | 103.25.58.139:27966
+Connected Players: i[97] Doug (23), 404 (0)
+```
+[12/10/2016-09:52:09] Cat_Smoker: . Gaming
+[12/10/2016-09:52:10] Camel: http://i.imgur.com/tphfzTw.png
+[12/10/2016-14:17:31] Cat_Smoker: . Connected_servers
+[12/10/2016-14:17:32] Camel: Number of connected servers: 424
+[20/10/2016-17:59:48] Cat_Smoker: . Connected_servers
+[20/10/2016-17:59:48] Camel: Number of connected servers: 456
+[25/10/2016-23:06:22] Cat_Smoker: http://imgur.com/TDY7BmZ
+[26/10/2016-23:07:50] Cat_Smoker: .camel
+[26/10/2016-23:07:51] Camel: http://s19.postimg.org/v7miljezn/camel_feature.jpg
+[29/10/2016-12:46:36] Cat_Smoker: https://postimg.org/image/afkl7silb/
+[29/10/2016-12:47:28] Cat_Smoker: https://s19.postimg.org/image/afkl7silb/

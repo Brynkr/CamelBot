@@ -1,0 +1,11 @@
+[05/02/2017-09:54:28] Cat_Smoker: .connected_servers
+[05/02/2017-09:54:29] Camel: Number of connected servers: 656
+[19/02/2017-14:26:12] Cat_Smoker: .camel
+[19/02/2017-14:26:12] Camel: http://i.imgur.com/ogtBmtp.jpg
+[19/02/2017-14:26:16] Cat_Smoker: .connected_servers
+[19/02/2017-14:26:16] Camel: Number of connected servers: 684
+[19/02/2017-20:02:11] Cat_Smoker: .isup google.com
+[19/02/2017-20:02:11] Camel: google.com is down!
+[19/02/2017-20:02:20] Cat_Smoker: .isup www.google.com
+[19/02/2017-20:02:21] Camel: www.google.com is down!
+[19/02/2017-20:05:20] Cat_Smoker: .isup www.google.com

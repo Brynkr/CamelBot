@@ -1,0 +1,9 @@
+[02/03/2017-19:14:42] Cat_Smoker: .choose rock climbing; driving range; vr; get smashed;  paintball; bungee jumping; tramping; escape crate; other escape room; go karting
+[02/03/2017-19:14:43] Camel: Camel chooses:  bungee jumping
+[02/03/2017-19:14:58] Cat_Smoker: .choose rock climbing; driving range; vr; get smashed;  paintball; bungee jumping; tramping; escape crate; other escape room; go karting
+[02/03/2017-19:14:59] Camel: Camel chooses:  vr
+[03/03/2017-21:01:04] Cat_Smoker: .yt terifire reflex and chill more shaft
+[03/03/2017-21:01:06] Camel: https://www.youtube.com/watch?v=s7Msn6Bpaxc
+[29/03/2017-00:58:31] Cat_Smoker: .connected_servers
+[29/03/2017-00:58:31] Camel: Number of connected servers: 776
+[29/03/2017-00:58:53] Cat_Smoker: road to 1k

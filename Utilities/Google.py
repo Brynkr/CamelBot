@@ -12,7 +12,7 @@ async def web_search(message, client):
     print('Searching web for: ' + search_query)
     search_query = search_query.replace(' ', '+')
 
-    search_url = Constants.GOOGLE_IMGSEARCH_HEAD_URL + search_query # + IMGSEARCH_FOOT_URL
+    search_url = Constants.GOOGLE_IMGSEARCH_HEAD_URL + "{}".format(search_query) # + IMGSEARCH_FOOT_URL
     search_response = requests.get(search_url)
     search_response_text = search_response.text
 

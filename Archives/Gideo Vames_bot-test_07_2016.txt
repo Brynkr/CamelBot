@@ -36,3 +36,94 @@ https://old.postimg.org/image/xp2lf9xcv/
 
 [16/07/2016-13:54:59] Cat_Smoker: .dict camel
 [16/07/2016-13:55:00] Camel: Sorry, temporarily unavailable. Will fix when I get time.
+[17/07/2016-19:10:12] Cat_Smoker: .servers eu
+[17/07/2016-19:10:13] Camel: No currently occupied Reflex servers were found in region: EU
+[17/07/2016-19:10:18] Cat_Smoker: .servers au
+[17/07/2016-19:10:19] Camel: ```Occupied Reflex servers for AU:
+
+reflexfps.net.au #5  |  1v1   |     Fusion    | 1 /10 | 221.121.157.22:25786
+Connected Players: tonx (0)
+----------
+reflexfps.net.au #1  |  tdm   |  Deep Inside  | 6 /10 | 221.121.157.22:25787
+Connected Players: HunteR (0), Dorinos (0), Dopameme (0), [3xi7] (0), tonx (0), jdwpom (0)
+```
+[17/07/2016-19:16:01] Cat_Smoker: .servers au
+[17/07/2016-19:16:02] Camel: ```Occupied Reflex servers for AU:
+
+reflexfps.net.au #4  |  race  |     Fusion    | 1 /10 | 221.121.157.22:25790
+Connected Players: have a cool summer (0)
+----------
+reflexfps.net.au #5  |  1v1   | Static Discharge| 3 /10 | 221.121.157.22:25786
+Connected Players: tonx (1), Dorinos (10), Dopameme (0)
+----------
+reflexfps.net.au #1  |  1v1   |      Ruin     | 1 /10 | 221.121.157.22:25787
+Connected Players: HunteR (0)
+```
+[17/07/2016-19:16:12] Cat_Smoker: .servers na
+[17/07/2016-19:16:13] Camel: No currently occupied Reflex servers were found in region: NA
+[17/07/2016-19:16:23] Cat_Smoker: .servers eu
+[17/07/2016-19:16:24] Camel: No currently occupied Reflex servers were found in region: EU
+[19/07/2016-17:17:16] Cat_Smoker: .gay
+[19/07/2016-17:17:17] Camel: https://s31.postimg.org/b9mxnxz1n/Wow_gay_26601.gif
+
+[21/07/2016-17:50:33] Cat_Smoker: .burger
+[21/07/2016-17:50:34] Camel: https://66.media.tumblr.com/ea686b63228f635fc6eac3c434fe9ce9/tumblr_o8r292FmS71uxvj4io1_1280.jpg
+
+[24/07/2016-04:14:17] Cat_Smoker: .help
+[24/07/2016-04:14:17] Camel: PMing Cat_Smoker the command list. 
+ To tame this camel, type '.invite' and follow the instructions. :camel:
+[25/07/2016-20:29:17] Cat_Smoker: .ud camel
+[25/07/2016-20:29:19] Camel: ```Most relevant Urban Dictionary result for camel:
+
+Word:          Camel
+Definition:    A very large ass on a girl, or nice round butt 
+Example:       If a girl has a really nice butt you would say that girl has a camel 
+```
+[26/07/2016-19:59:58] Cat_Smoker: wshoot <@95840206191624192>
+[26/07/2016-19:59:58] Camel: http://i.imgur.com/Z9OZqIW.gif
+Cat_Smoker couldn't take it anymore.
+[26/07/2016-20:00:06] Cat_Smoker: asdfshoot <@95840206191624192>
+[26/07/2016-20:02:04] Cat_Smoker: what
+[28/07/2016-16:18:39] Cat_Smoker: .invite
+[28/07/2016-16:18:40] Camel: Sending Cat_Smoker an invite URL.
+[30/07/2016-18:40:05] Cat_Smoker: .remindme 00h00m30s;camels are great
+[30/07/2016-18:40:06] Cat_Smoker: .remindme 00h00m30s;camels are great
+[30/07/2016-18:40:06] TestingBot: Invalid time specified. Please use format: 24h30m22s
+[30/07/2016-18:40:06] TestingBot: Invalid time specified. Please use format: 24h30m22s
+[30/07/2016-18:40:39] Cat_Smoker: .remindme 01h02m30s;camels are great
+[30/07/2016-18:40:39] Cat_Smoker: .remindme 01h02m30s;camels are great
+[30/07/2016-18:40:40] TestingBot: Invalid time specified. Please use format: 24h30m22s
+[30/07/2016-18:40:40] TestingBot: Invalid time specified. Please use format: 24h30m22s
+[30/07/2016-18:40:56] Cat_Smoker: .remindme 11h22m30s;camels are great
+[30/07/2016-18:40:56] Cat_Smoker: .remindme 11h22m30s;camels are great
+[30/07/2016-18:40:56] TestingBot: Invalid time specified. Please use format: 24h30m22s
+[30/07/2016-18:40:56] TestingBot: Invalid time specified. Please use format: 24h30m22s
+[30/07/2016-18:41:45] Cat_Smoker: .remindme 01h02m30s;camels are great
+[30/07/2016-18:41:45] Cat_Smoker: .remindme 01h02m30s;camels are great
+[30/07/2016-18:44:08] Cat_Smoker: .remindme 00h00m20s;camels are great
+[30/07/2016-18:44:08] Cat_Smoker: .remindme 00h00m20s;camels are great
+[30/07/2016-18:45:49] Cat_Smoker: .remindme 00h00m20s;camels are great
+[30/07/2016-18:45:49] Cat_Smoker: .remindme 00h00m20s;camels are great
+[30/07/2016-18:45:50] TestingBot: Reminder has been added. You will be PMed.
+[30/07/2016-18:45:50] TestingBot: Reminder has been added. You will be PMed.
+[30/07/2016-20:24:07] Cat_Smoker: .remindme 00h00m20s;camels are great
+[30/07/2016-20:24:07] Cat_Smoker: .remindme 00h00m20s;camels are great
+[30/07/2016-20:24:07] TestingBot: Reminder has been added. You will be PMed.
+[30/07/2016-20:24:07] TestingBot: Reminder has been added. You will be PMed.
+[30/07/2016-20:26:54] Cat_Smoker: .remindme 00h00m20s;camels are great
+[30/07/2016-20:26:54] Cat_Smoker: .remindme 00h00m20s;camels are great
+[30/07/2016-20:26:55] TestingBot: Reminder has been added. You will be PMed.
+[30/07/2016-20:26:55] TestingBot: Reminder has been added. You will be PMed.
+[30/07/2016-20:28:40] Cat_Smoker: .remindme 00h00m20s;camels are great
+[30/07/2016-20:28:40] Cat_Smoker: .remindme 00h00m20s;camels are great
+[30/07/2016-20:28:40] TestingBot: Reminder has been added. You will be PMed.
+[30/07/2016-20:28:40] TestingBot: Reminder has been added. You will be PMed.
+[30/07/2016-20:31:51] Cat_Smoker: .remindme 00h00m20s;camels are great
+[30/07/2016-20:31:51] Cat_Smoker: .remindme 00h00m20s;camels are great
+[30/07/2016-20:31:52] TestingBot: Reminder has been added. You will be PMed.
+[30/07/2016-20:31:52] TestingBot: Reminder has been added. You will be PMed.
+[30/07/2016-20:33:16] Cat_Smoker: .remindme 00h00m20s;camels are great
+[30/07/2016-20:33:16] Cat_Smoker: .remindme 00h00m20s;camels are great
+[30/07/2016-20:33:17] TestingBot: Reminder has been added. You will be PMed.
+[30/07/2016-20:33:17] TestingBot: Reminder has been added. You will be PMed.
+[31/07/2016-22:15:04] Cat_Smoker: .read_arc

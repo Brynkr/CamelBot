@@ -1,0 +1,57 @@
+[04/04/2017-12:54:02] Cat_Smoker: He deleted the constants.py file from his github repository with the bot token but he forgot about deleting the pycache folders which contain compiled python bytecode. I could get his test bot's token and his old valid token + all his other service tokens too
+By decompiling the constants.pyc byte code file
+[06/04/2017-15:46:40] Cat_Smoker: .connected_servers
+[06/04/2017-15:46:41] Camel: Number of connected servers: 784
+[12/04/2017-18:12:24] Cat_Smoker: .checkem
+[12/04/2017-18:12:24] Camel: (Cat_Smoker) Check em! :  **25292249**
+https://pbs.twimg.com/media/Cro9aIGUEAAkXCP.jpg
+[13/04/2017-20:57:30] Cat_Smoker: blob:http://imgur.com/99f0e4de-f024-469b-9e30-fc2a92a0c07b
+[13/04/2017-20:57:36] Cat_Smoker: http://imgur.com/99f0e4de-f024-469b-9e30-fc2a92a0c07b
+[13/04/2017-20:58:13] Cat_Smoker: http://imgur.com/ZxxFo82
+[13/04/2017-20:58:27] Cat_Smoker: .prune 10000
+[14/04/2017-02:43:56] Cat_Smoker: .prune 9999999
+[14/04/2017-02:44:13] Cat_Smoker: .prune 1
+[23/04/2017-11:46:41] Cat_Smoker: .connected_servers
+[23/04/2017-11:46:41] Camel: Number of connected servers: 811
+[25/04/2017-13:40:12] Cat_Smoker: https://images.discordapp.net/avatars/161620845469499392/b04404a037d9a24817b3eefe25ea3ae4.jpg
+[25/04/2017-13:40:26] Cat_Smoker: https://images.discordapp.net/avatars/161620845469499392/b04404a037d9a24817b3eefe25ea3ae4.webp?size=1024
+[25/04/2017-13:40:32] Cat_Smoker: .av <@95840206191624192>
+[25/04/2017-13:40:33] Camel: Avatar of mentioned user Cat_Smoker: 
+https://discordapp.com/api/users/95840206191624192/avatars/c8339f2f87996a48b294b6a436f176f8.jpg
+[25/04/2017-13:40:45] Cat_Smoker: https://discordapp.com/api/users/95840206191624192/avatars/c8339f2f87996a48b294b6a436f176f8.webp?size=1024
+[25/04/2017-13:54:42] Cat_Smoker: .av <@95840206191624192>
+[25/04/2017-13:54:42] Cat_Smoker: .av <@95840206191624192>
+[25/04/2017-13:54:42] Camel: Avatar of mentioned user Cat_Smoker: 
+https://discordapp.com/api/users/95840206191624192/avatars/c8339f2f87996a48b294b6a436f176f8.jpg
+[25/04/2017-13:54:42] Camel: Avatar of mentioned user Cat_Smoker: 
+https://discordapp.com/api/users/95840206191624192/avatars/c8339f2f87996a48b294b6a436f176f8.jpg
+[25/04/2017-13:56:33] Cat_Smoker: .av <@95840206191624192>
+[25/04/2017-13:56:33] Cat_Smoker: .av <@95840206191624192>
+[25/04/2017-13:56:33] TestingBot: Avatar of mentioned user Cat_Smoker: 
+https://images.discordapp.net/avatars/95840206191624192/c8339f2f87996a48b294b6a436f176f8.webp?size=1024
+[25/04/2017-13:56:33] TestingBot: Avatar of mentioned user Cat_Smoker: 
+https://images.discordapp.net/avatars/95840206191624192/c8339f2f87996a48b294b6a436f176f8.webp?size=1024
+[25/04/2017-13:56:34] Camel: Avatar of mentioned user Cat_Smoker: 
+https://discordapp.com/api/users/95840206191624192/avatars/c8339f2f87996a48b294b6a436f176f8.jpg
+[25/04/2017-13:56:34] Camel: Avatar of mentioned user Cat_Smoker: 
+https://discordapp.com/api/users/95840206191624192/avatars/c8339f2f87996a48b294b6a436f176f8.jpg
+[25/04/2017-13:56:58] Cat_Smoker: https://images.discordapp.net/avatars/95840206191624192/c8339f2f87996a48b294b6a436f176f8.webp?size=1024
+[25/04/2017-13:56:58] Cat_Smoker: https://images.discordapp.net/avatars/95840206191624192/c8339f2f87996a48b294b6a436f176f8.webp?size=1024
+[25/04/2017-13:57:33] Cat_Smoker: .av <@95841888887635968>
+[25/04/2017-13:57:33] Cat_Smoker: .av <@95841888887635968>
+[25/04/2017-13:57:34] Camel: Avatar of mentioned user Labelmeister: 
+https://discordapp.com/api/users/95841888887635968/avatars/cc848fee1c66382f9f3e9b61e52b21dc.jpg
+[25/04/2017-13:57:34] TestingBot: Avatar of mentioned user Labelmeister: 
+https://images.discordapp.net/avatars/95841888887635968/cc848fee1c66382f9f3e9b61e52b21dc.webp?size=1024
+[25/04/2017-13:57:34] Camel: Avatar of mentioned user Labelmeister: 
+https://discordapp.com/api/users/95841888887635968/avatars/cc848fee1c66382f9f3e9b61e52b21dc.jpg
+[25/04/2017-13:57:34] TestingBot: Avatar of mentioned user Labelmeister: 
+https://images.discordapp.net/avatars/95841888887635968/cc848fee1c66382f9f3e9b61e52b21dc.webp?size=1024
+[25/04/2017-13:57:37] Cat_Smoker: cool
+[25/04/2017-13:57:37] Cat_Smoker: cool
+[25/04/2017-13:57:40] Cat_Smoker: ty jongo
+[25/04/2017-13:57:40] Cat_Smoker: ty jongo
+[25/04/2017-14:01:40] Cat_Smoker: .av <@95840206191624192>
+[25/04/2017-14:01:40] Camel: Avatar of mentioned user Cat_Smoker: 
+https://images.discordapp.net/avatars/95840206191624192/7a183b128f45ac7eb8c290760b990d38.webp?size=1024
+[25/04/2017-14:20:43] Cat_Smoker: http://i0.kym-cdn.com/photos/images/masonry/001/099/678/212.jpg

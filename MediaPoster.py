@@ -7,7 +7,6 @@ import re
 import Constants
 
 
-
 '''Base class for images, videos, etc.'''
 class MediaPoster:
     def __init__(self):
@@ -22,10 +21,7 @@ class MediaPoster:
 
 
     async def find(self, msg_content):
-        #removing the '.' and extra whitespace
         filename = msg_content[1:].strip(' ') + '.txt'
-
-        #searching specified directory
         for root, dirs, files in os.walk(Constants.MEDIA_URL_DIRECTORY):
             if filename in files:
                 return True
@@ -46,3 +42,12 @@ class MediaPoster:
             return False
 
         return False
+
+
+    async def jew_allowed(self, message):
+        if message.server.id == Constants.TGCRAFT_SERVER_ID:
+            return False
+        return True
+
+    # async def random_image(self, message):
+        

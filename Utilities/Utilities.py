@@ -6,6 +6,7 @@ import Constants
 from Utilities import Pruner
 from Utilities import KickBan
 from Utilities import Archive
+from Utilities import Reminder
 from Utilities import Avatar
 from Utilities import Eightball
 from Utilities import Choose
@@ -28,6 +29,9 @@ from Utilities import Rocket
 from Utilities import Shaft
 from Utilities import Shoot
 from Utilities import ReflexServers
+from Utilities import QuakeLiveServers
+
+import Servers
 
 from MediaPoster import MediaPoster
 media_poster = MediaPoster()
@@ -99,6 +103,10 @@ class Utilities:
             await Archive.read_from_archive(message, client)
             return True
 
+        if command == 'remindme':
+            await client.send_message(message.channel, await Reminder.add_reminder(message, client))
+            return True
+
         if command == 'av':
             await client.send_message(message.channel, await Avatar.avatar_link(message, client))
             return True
@@ -116,8 +124,11 @@ class Utilities:
             return True
 
         if command == 'checkem':
-            if message.server.id == Constants.CHAN_SERVER_ID and message.channel.name != 'shitposting':
-                await client.send_message(message.channel, 'Use #shitposting.')
+            if message.server.id == Constants.CHAN_SERVER_ID and message.channel.name != 'shitposting' and message.channel.name != 'nsfw-shitposting':
+                await client.send_message(message.channel, 'Use #shitposting or #nsfw-shitposting.')
+                return True
+            if message.server.id == Constants.TGCRAFT_SERVER_ID and message.channel.name != 'nsfw-autism_containment':
+                await client.send_message(message.channel, 'Use #autism_containment. https://www.youtube.com/watch?v=ozkn_JC1pnc')
                 return True
             await client.send_message(message.channel, await Dice.roll(message, client, True))
             return True
@@ -203,8 +214,19 @@ class Utilities:
             return True
 
         if command == 'servers':
+            await client.send_message(message.channel, "Deprecated command. For game servers please use '.reflex <country_code>' or 'quakelive <country_code>'")
+
+        if command == 'reflex':
             await client.send_message(message.channel, await ReflexServers.post_servers(message, client))
             return True
+
+        if command == 'quakelive':
+            await client.send_message(message.channel, await QuakeLiveServers.post_servers(message, client))
+            return True
+
+        if command == 'connected_servers':
+            await client.send_message(message.channel, "Number of connected servers: " + str(Servers.server_count(client)))
+
 
         return False
 
@@ -265,6 +287,10 @@ class Utilities:
 
         if command == 'scp':
             await client.send_message(message.channel, Constants.BASE_SCP_URL + str(randint(1,2999)))
+            return True
+
+        if command == 'jerkcity':
+            await client.send_message(message.channel, Constants.BASE_JERKCITY_URL + str(randint(1,5300)) + '.html')
             return True
 
         return False

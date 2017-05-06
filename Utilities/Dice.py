@@ -5,8 +5,6 @@ from random import randint
 from Utilities import is_number
 from MediaPoster import MediaPoster
 
-media_poster = MediaPoster()
-
 import Constants
 
 

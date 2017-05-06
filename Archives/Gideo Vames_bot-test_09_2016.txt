@@ -1,0 +1,209 @@
+[04/09/2016-20:50:38] Cat_Smoker: .servers au
+[04/09/2016-20:50:39] Camel: ```Occupied Reflex servers for AU:
+
+reflexfps.net.au #10 |  tdm   |    Aerowalk   | 4 /10 | 221.121.157.22:25794
+Connected Players: vam > grotesk (5), vam > djbutterchicken (9), Rocky (4), Ravenous (12)
+----------
+123                  |  1v1   |    Aerowalk   | 3 /4  | 121.222.102.244:25787
+Connected Players: Stral (0), MUSHHZ! (0), Orbit.gg Jake (0)
+```
+[04/09/2016-22:55:53] Cat_Smoker: .correct
+[04/09/2016-22:55:54] Camel: https://www.youtube.com/watch?v=b3_lVSrPB6w
+[04/09/2016-23:32:56] Cat_Smoker: .servers au
+[04/09/2016-23:32:56] Camel: ```Occupied Reflex servers for AU:
+
+123                  |  race  |   Strafejump  | 3 /4  | 121.222.102.244:25787
+Connected Players: Stral (0), MUSHHZ! (0), apa (0)
+```
+[10/09/2016-12:56:50] Cat_Smoker: .help
+[10/09/2016-12:56:50] Cat_Smoker: .help
+[10/09/2016-12:56:50] Camel: PMing Cat_Smoker the command list. 
+ To tame this camel, type '.invite' and follow the instructions. :camel:
+[10/09/2016-12:56:50] Camel: PMing Cat_Smoker the command list. 
+ To tame this camel, type '.invite' and follow the instructions. :camel:
+[10/09/2016-12:57:49] Cat_Smoker: .help
+[10/09/2016-12:57:49] Cat_Smoker: .help
+[10/09/2016-12:57:50] Camel: PMing Cat_Smoker the command list. 
+ To tame this camel, type '.invite' and follow the instructions. :camel:
+[10/09/2016-12:57:50] Camel: PMing Cat_Smoker the command list. 
+ To tame this camel, type '.invite' and follow the instructions. :camel:
+[10/09/2016-12:59:28] Cat_Smoker: .help
+[10/09/2016-12:59:28] Cat_Smoker: .help
+[10/09/2016-12:59:28] Camel: PMing Cat_Smoker the command list. 
+ To tame this camel, type '.invite' and follow the instructions. :camel:
+[10/09/2016-12:59:28] Camel: PMing Cat_Smoker the command list. 
+ To tame this camel, type '.invite' and follow the instructions. :camel:
+[10/09/2016-13:00:58] Cat_Smoker: .help
+[10/09/2016-13:00:58] Cat_Smoker: .help
+[10/09/2016-13:00:59] Camel: PMing Cat_Smoker the command list. 
+ To tame this camel, type '.invite' and follow the instructions. :camel:
+[10/09/2016-13:00:59] Camel: PMing Cat_Smoker the command list. 
+ To tame this camel, type '.invite' and follow the instructions. :camel:
+[10/09/2016-13:04:43] Cat_Smoker: .help
+[10/09/2016-13:04:43] Cat_Smoker: .help
+[10/09/2016-13:04:44] TestingBot: PMing Cat_Smoker the command list. 
+ To tame this camel, type '.invite' and follow the instructions. :camel:
+[10/09/2016-13:04:44] TestingBot: PMing Cat_Smoker the command list. 
+ To tame this camel, type '.invite' and follow the instructions. :camel:
+[10/09/2016-13:04:44] Camel: PMing Cat_Smoker the command list. 
+ To tame this camel, type '.invite' and follow the instructions. :camel:
+[10/09/2016-13:04:44] Camel: PMing Cat_Smoker the command list. 
+ To tame this camel, type '.invite' and follow the instructions. :camel:
+[10/09/2016-13:14:11] Cat_Smoker: .help
+[10/09/2016-13:14:11] Cat_Smoker: .help
+[10/09/2016-13:14:11] TestingBot: PMing Cat_Smoker the command list. 
+ To tame this camel, type '.invite' and follow the instructions. :camel:
+[10/09/2016-13:14:11] TestingBot: PMing Cat_Smoker the command list. 
+ To tame this camel, type '.invite' and follow the instructions. :camel:
+[10/09/2016-13:14:11] Camel: PMing Cat_Smoker the command list. 
+ To tame this camel, type '.invite' and follow the instructions. :camel:
+[10/09/2016-13:14:11] Camel: PMing Cat_Smoker the command list. 
+ To tame this camel, type '.invite' and follow the instructions. :camel:
+[10/09/2016-13:19:13] Cat_Smoker: .help
+[10/09/2016-13:19:13] Cat_Smoker: .help
+[10/09/2016-13:19:14] Camel: PMing Cat_Smoker the command list. 
+ To tame this camel, type '.invite' and follow the instructions. :camel:
+[10/09/2016-13:19:14] Camel: PMing Cat_Smoker the command list. 
+ To tame this camel, type '.invite' and follow the instructions. :camel:
+[10/09/2016-13:19:14] TestingBot: PMing Cat_Smoker the command list. 
+ To tame this camel, type '.invite' and follow the instructions. :camel:
+[10/09/2016-13:19:14] TestingBot: PMing Cat_Smoker the command list. 
+ To tame this camel, type '.invite' and follow the instructions. :camel:
+[10/09/2016-15:41:35] Cat_Smoker: .servers au
+[10/09/2016-15:41:38] Camel: ```Occupied Reflex servers for AU:
+
+reflexfps.net.au #5  |  1v1   |     Fusion    | 2 /10 | 221.121.157.22:25786
+Connected Players: n1cecream (0), cerno (0)
+----------
+reflexfps.net.au #1  |  a1v1  |  Campgrounds  | 1 /10 | 221.121.157.22:25787
+Connected Players: modus (0)
+----------
+reflexfps.net.au #2  |  1v1   | Static Discharge| 2 /10 | 221.121.157.22:25788
+Connected Players: greanyo (2), nh1n (0)
+```
+[11/09/2016-10:19:45] Cat_Smoker: .weather christchurch
+[11/09/2016-10:19:46] Camel: ```Current weather for Christchurch, NZ
+
+Description: Clear; clear sky
+Temperature: 8.00 C / 46.40 F
+Cloudiness: 0%
+Humidity: 87%
+Wind Direction: North-East
+Wind Speed: 3.6 m/s
+```
+[11/09/2016-10:19:55] Cat_Smoker: .yt asdjh
+[11/09/2016-10:19:56] Camel: https://www.youtube.com/watch?v=bxC66aH75sY
+[11/09/2016-10:20:06] Cat_Smoker: .penguin
+[11/09/2016-10:20:06] Camel: http://s19.postimg.org/ydmiiqj37/penguin_wings.jpg
+[11/09/2016-10:20:10] Cat_Smoker: .penguin
+[11/09/2016-10:20:11] Camel: http://s19.postimg.org/di087hmw3/76803af4_d82e_45e9_aa83_ba8dbb0f5985.jpg
+[11/09/2016-10:20:13] Cat_Smoker: .camel
+[11/09/2016-10:20:13] Camel: http://i.imgur.com/HewBKD6.jpg
+[11/09/2016-10:20:16] Cat_Smoker: .raccoon
+[11/09/2016-10:20:16] Camel: https://www.animalcontrolsolutions.com/wildlife/images/uploads/raccoon2(1).jpg
+[11/09/2016-11:53:04] Cat_Smoker: . Camel
+[11/09/2016-11:53:04] Camel: http://i.imgur.com/HC910bQ.jpg
+[12/09/2016-22:30:08] Cat_Smoker: .help
+[12/09/2016-22:30:08] Camel: PMing Cat_Smoker the command list. 
+ To tame this camel, type '.invite' and follow the instructions. :camel:
+[12/09/2016-22:33:48] Cat_Smoker: .help
+[12/09/2016-22:33:48] Camel: PMing Cat_Smoker the command list. 
+ To tame this camel, type '.invite' and follow the instructions. :camel:
+[12/09/2016-22:37:53] Cat_Smoker: .help
+[12/09/2016-22:37:53] Camel: PMing Cat_Smoker the command list. 
+ To tame this camel, type '.invite' and follow the instructions. :camel:
+[13/09/2016-22:00:41] Cat_Smoker: .camel
+[13/09/2016-22:00:45] Camel: http://i19.photobucket.com/albums/b164/digger48/celebs/worth-sexy-camel.jpg
+[15/09/2016-07:58:27] Cat_Smoker: http://jerkcity.com/random/?_
+[15/09/2016-07:58:37] Cat_Smoker: http://jerkcity.com/random/?_
+[15/09/2016-07:58:48] Cat_Smoker: http://jerkcity.com/random/?_
+[15/09/2016-18:18:21] Cat_Smoker: .jerkcity
+[15/09/2016-18:19:44] Cat_Smoker: .jerkcity
+[15/09/2016-18:19:46] Camel: http://jerkcity.com/_jerkcity2873.html
+[15/09/2016-18:19:57] Cat_Smoker: .jerkcity
+[15/09/2016-18:19:59] Camel: http://jerkcity.com/_jerkcity3285.html
+[15/09/2016-18:20:20] Cat_Smoker: .help
+[15/09/2016-18:20:20] Camel: PMing Cat_Smoker the command list. 
+ To tame this camel, type '.invite' and follow the instructions. :camel:
+[15/09/2016-22:24:33] Cat_Smoker: http://imgur.com/Jjzbb9d
+[16/09/2016-17:58:49] Cat_Smoker: .pizza
+[16/09/2016-17:58:50] Cat_Smoker: .pizza
+[16/09/2016-17:58:50] TestingBot: http://i.imgur.com/Jjzbb9d.gif
+[16/09/2016-17:58:50] TestingBot: http://i.imgur.com/Jjzbb9d.gif
+[16/09/2016-17:58:50] Camel: http://i.imgur.com/Jjzbb9d.gif
+[16/09/2016-17:58:50] Camel: http://i.imgur.com/Jjzbb9d.gif
+[16/09/2016-17:59:17] Cat_Smoker: .connected_servers
+[16/09/2016-17:59:17] Cat_Smoker: .connected_servers
+[16/09/2016-17:59:56] Cat_Smoker: .connected_servers
+[16/09/2016-17:59:56] Cat_Smoker: .connected_servers
+[16/09/2016-17:59:56] TestingBot: Number of connected servers: 1
+[16/09/2016-17:59:56] TestingBot: Number of connected servers: 1
+[16/09/2016-18:00:41] Cat_Smoker: .connected_servers
+[16/09/2016-18:00:41] Camel: Number of connected servers: 380
+[17/09/2016-10:09:30] Cat_Smoker: .vol
+[17/09/2016-10:09:30] Camel: https://my.mixtape.moe/esypuf.jpg
+[17/09/2016-14:01:19] Cat_Smoker: <@190758393483493376> hello
+[17/09/2016-14:01:48] Cat_Smoker: <@190758393483493376> hiya
+[17/09/2016-14:01:49] Camel: You don't know how to talk in binary...
+[18/09/2016-10:56:11] Cat_Smoker: .connected_servers
+[18/09/2016-10:56:11] Camel: Number of connected servers: 382
+[18/09/2016-19:59:24] Cat_Smoker: .help
+[18/09/2016-19:59:25] Camel: PMing Cat_Smoker the command list. 
+ To tame this camel, type '.invite' and follow the instructions. :camel:
+[18/09/2016-20:03:50] Cat_Smoker: .help
+[18/09/2016-20:03:50] Camel: PMing Cat_Smoker the command list. 
+ To tame this camel, type '.invite' and follow the instructions. :camel:
+[20/09/2016-15:36:48] Cat_Smoker: . Connected_servers
+[20/09/2016-15:36:49] Camel: Number of connected servers: 378
+[20/09/2016-15:37:09] Cat_Smoker: . Camwl
+[20/09/2016-15:37:12] Cat_Smoker: . Camwl
+[20/09/2016-15:37:15] Cat_Smoker: . Camel
+[20/09/2016-15:37:16] Camel: http://s19.postimg.org/co3mu5603/83994370_close_view_of_camels_head_gettyimages.jpg
+[22/09/2016-13:35:54] Cat_Smoker: . Connected_servers
+[22/09/2016-13:35:54] Camel: Number of connected servers: 380
+[25/09/2016-11:07:44] Cat_Smoker: .help
+[25/09/2016-11:07:45] Camel: PMing Cat_Smoker the command list. 
+ To tame this camel, type '.invite' and follow the instructions. :camel:
+[25/09/2016-11:09:04] Cat_Smoker: .help
+[25/09/2016-11:09:05] Camel: PMing Cat_Smoker the command list. 
+ To tame this camel, type '.invite' and follow the instructions. :camel:
+[25/09/2016-11:17:28] Cat_Smoker: .camel
+[25/09/2016-11:17:29] Camel: http://i.imgur.com/KtLci6Q.jpg
+[25/09/2016-11:27:03] Cat_Smoker: .help
+[25/09/2016-11:27:04] Camel: PMing Cat_Smoker the command list. 
+ To tame this camel, type '.invite' and follow the instructions. :camel:
+[25/09/2016-11:28:58] Cat_Smoker: .help
+[25/09/2016-11:28:58] Camel: PMing Cat_Smoker the command list. 
+ To tame this camel, type '.invite' and follow the instructions. :camel:
+[25/09/2016-11:54:31] Cat_Smoker: .help
+[25/09/2016-11:54:32] Camel: PMing Cat_Smoker the command list. 
+ To tame this camel, type '.invite' and follow the instructions. :camel:
+[25/09/2016-11:55:38] Cat_Smoker: .help
+[25/09/2016-11:55:38] Camel: PMing Cat_Smoker the command list. 
+ To tame this camel, type '.invite' and follow the instructions. :camel:
+[25/09/2016-11:55:56] Cat_Smoker: .help
+[25/09/2016-11:55:57] Camel: PMing Cat_Smoker the command list. 
+ To tame this camel, type '.invite' and follow the instructions. :camel:
+[25/09/2016-13:35:18] Cat_Smoker: .connected_servers
+[25/09/2016-13:35:19] Camel: Number of connected servers: 389
+[25/09/2016-13:35:22] Cat_Smoker: .invite
+[25/09/2016-13:35:23] Camel: Sending Cat_Smoker an invite URL.
+[28/09/2016-22:01:27] Cat_Smoker: .google camel
+[28/09/2016-22:01:27] Cat_Smoker: .google camel
+[28/09/2016-22:01:29] Camel: https://en.wikipedia.org/wiki/Camel
+[28/09/2016-22:01:29] Camel: https://en.wikipedia.org/wiki/Camel
+[28/09/2016-22:03:17] Cat_Smoker: .google camel
+[28/09/2016-22:03:17] Cat_Smoker: .google camel
+[28/09/2016-22:03:19] Camel: https://en.wikipedia.org/wiki/Camel
+[28/09/2016-22:03:19] Camel: https://en.wikipedia.org/wiki/Camel
+[28/09/2016-22:05:31] Cat_Smoker: .google camel
+[28/09/2016-22:05:31] Cat_Smoker: .google camel
+[28/09/2016-22:05:32] TestingBot: https://en.wikipedia.org/wiki/Camel
+[28/09/2016-22:05:32] TestingBot: https://en.wikipedia.org/wiki/Camel
+[28/09/2016-22:05:32] Camel: https://en.wikipedia.org/wiki/Camel
+[28/09/2016-22:05:32] Camel: https://en.wikipedia.org/wiki/Camel
+[30/09/2016-09:01:51] Cat_Smoker: .fiteme
+[30/09/2016-09:01:52] Camel: https://images-2.discordapp.net/.eJwNykEOwiAQAMC_8AAWdldKe_Sg8eAbGkIJrWmFwHoy_t1eJ_NVn7arSa0itU8Ay9ZjaYvuUlrISedS8p5C3bqO5YAgEuJ6pLd08MyW3WjIeefZEAKStYzoydCAfGE2cLvOj-d9PuNg-dSRnNGvmtXvD5ksJEs.x9Mo3vIfr0g7jkgxXYbbUFx1CDY
+[30/09/2016-14:05:42] Cat_Smoker: .servers au
+[30/09/2016-14:05:43] Camel: No currently occupied Reflex servers were found in specified region.
+[30/09/2016-19:30:41] Cat_Smoker: -80 -245 3.5

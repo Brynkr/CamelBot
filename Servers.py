@@ -3,7 +3,7 @@ import asyncio
 
 
 def server_count(client):
-    return len(client.servers)
+    return len(server_list(client))
 
 
 def server_list(client):
