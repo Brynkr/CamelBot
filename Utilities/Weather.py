@@ -10,7 +10,7 @@ async def get_weather(message, client):
     #.weather christchurch
     query = message.content[8:].strip(' ')
     print('Providing weather for: ' + query)
-    r = requests.get(Constants.BASE_WEATHER_URL + query + Constants.WEATHER_API_KEY)
+    r = requests.get(Constants.BASE_WEATHER_URL + query + "&APPID=" + Constants.WEATHER_API_KEY) 
     weather_data = r.json()
 
     try:

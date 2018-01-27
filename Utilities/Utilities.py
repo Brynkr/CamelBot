@@ -30,6 +30,8 @@ from Utilities import Shaft
 from Utilities import Shoot
 from Utilities import ReflexServers
 from Utilities import QuakeLiveServers
+from Utilities import Fox
+from Utilities import Qwant
 
 import Servers
 
@@ -226,6 +228,12 @@ class Utilities:
 
         if command == 'connected_servers':
             await client.send_message(message.channel, "Number of connected servers: " + str(Servers.server_count(client)))
+
+        if command == 'fox':
+            await client.send_message(message.channel, await Fox.get_fox(client))
+
+        if command == 'qwant':
+            await client.send_message(message.channel, await Qwant.qwantSearch(message, client))
 
 
         return False
