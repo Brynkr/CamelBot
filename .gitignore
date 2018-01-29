@@ -1,2 +1,6 @@
 __pycache__/*
 Constants.py
+.ropeproject/config.py
+Utilities/.ropeproject/config.py
+Utilities/__pycache__/*
+ThirdPartyLibs/__pycache__/*

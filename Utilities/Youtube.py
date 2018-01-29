@@ -5,8 +5,8 @@ from random import randint
 
 import requests
 import json
-from apiclient.discovery import build
-from apiclient.errors import HttpError
+from googleapiclient.discovery import build
+from googleapiclient.errors import HttpError
 from oauth2client.tools import argparser
 
 import Constants
