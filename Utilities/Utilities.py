@@ -6,6 +6,7 @@ import Constants
 from Utilities import Pruner
 from Utilities import KickBan
 from Utilities import Archive
+from Utilities import LehouseGreats
 from Utilities import Reminder
 from Utilities import Avatar
 from Utilities import Eightball
@@ -24,6 +25,7 @@ from Utilities import Youtube
 from Utilities import Giphy
 from Utilities import Google
 from Utilities import CurrencyConverter
+from Utilities import Roulette
 from Utilities import Telefrag
 from Utilities import Rocket
 from Utilities import Shaft
@@ -103,6 +105,14 @@ class Utilities:
 
         if command == 'read_arc':
             await Archive.read_from_archive(message, client)
+            return True
+
+        if command == 'topmov':
+            await client.send_message(message.channel, await LehouseGreats.add_top(message, client))
+            return True
+
+        if command == 'topmovs':
+            await LehouseGreats.read_tops(message, client)
             return True
 
         if command == 'remindme':
@@ -218,9 +228,9 @@ class Utilities:
         if command == 'servers':
             await client.send_message(message.channel, "Deprecated command. For game servers please use '.reflex <country_code>' or 'quakelive <country_code>'")
 
-        if command == 'reflex':
-            await client.send_message(message.channel, await ReflexServers.post_servers(message, client))
-            return True
+        # if command == 'reflex':
+        #     await client.send_message(message.channel, await ReflexServers.post_servers(message, client))
+        #     return True
 
         if command == 'quakelive':
             await client.send_message(message.channel, await QuakeLiveServers.post_servers(message, client))
@@ -235,7 +245,9 @@ class Utilities:
         if command == 'qwant':
             await client.send_message(message.channel, await Qwant.qwantSearch(message, client))
 
-
+        if command == 'roulette':
+            await Roulette.roulette(message, client)
+      
         return False
 
 
@@ -255,10 +267,6 @@ class Utilities:
 
         if command == 'hype':
             await client.send_message(message.channel, ' H  Y  P  E  !\n' + await fuck_you_postimg('http://s19.postimg.org/ksgccmhsz/Planet_Hype.jpg'))
-            return True
-
-        if command == 'reflex':
-            await client.send_message(message.channel, 'Play more Reflex!\n' + await media_poster.fuck_you_postimg('http://i.imgur.com/iik8GOt.jpg'))
             return True
 
         if command == 'tidy':

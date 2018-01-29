@@ -17,8 +17,8 @@ async def get_weather(message, client):
         msg = '```Current weather for ' + weather_data['name'] + ', ' + weather_data['sys']['country'] + '\n\n'
     except KeyError:
         msg = 'No results. Try modifying your search query!'
-        await client.send_message(message.channel, msg)
-        return
+        # await client.send_message(message.channel, msg)
+        return msg
 
     try:
         msg += 'Description: ' + weather_data['weather'][0]['main'] + '; ' + weather_data['weather'][0]['description'] + '\n'

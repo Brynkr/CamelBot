@@ -3,8 +3,13 @@ import asyncio
 import os
 from random import randint
 import re
+# import urllib3
+import requests
+from bs4 import BeautifulSoup
 
 import Constants
+
+s_list = ["s16.postimg.org", "s17.postimg.org", "s18.postimg.org", "s19.postimg.org", "s20.postimg.org", "s21.postimg.org", "s22.postimg.org", "s23.postimg.org", "s24.postimg.org", "s25.postimg.org"]
 
 
 '''Base class for images, videos, etc.'''
@@ -17,6 +22,21 @@ class MediaPoster:
         urls = tuple(open('MediaURLs/' + command + '.txt', 'r'))
         print('Getting media URL from: ' + command + '.txt')
         url = urls[randint(0, len(urls) - 1)]
+        if "old.postimg.org" in url:
+            url = url.replace("old.postimg.org", "postimg.org")
+        if "postimg.org" in url:
+            # page = urllib2.urlopen(url)
+            response = requests.get(url)
+            soup = BeautifulSoup(response.content, "html.parser")
+
+            all_a = soup.find_all("a")
+            for a in all_a:
+                href = a.get("href")
+                for s in s_list:
+                    if s in href:
+                        return href
+            # direct_link = soup.find("h1", attrs={‘class’: ‘name’})
+
         return url
 
 
