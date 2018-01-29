@@ -3,14 +3,6 @@ import asyncio
 import Constants
 import time
 
-import requests
-import re
-import sys
-import time
-import urllib
-import bs4
-
-
 #.arc <content>
 async def write_to_archive(message, client):
     msg_content = message.content[4:].strip(' ')

@@ -46,8 +46,8 @@ kick_ban_commands = '__Pruning/Kicking/Banning Commands:__ (Both bot and user re
 miscellaneous_commands = '\n__**Miscellaneous**__\n\
 ```\
 .quakelive <country_code>\n\
-.reflex <country_code>\n\
 .shoot <@user1> <@user 2> etc.\n\
+.roulette  (*WARNING*: If the bot has banning permissions and you lose, you\'ll be banned from the server.)\n\
 .suicide\n\
 .shaft <@user>\n\
 .rocket <@user>\n\

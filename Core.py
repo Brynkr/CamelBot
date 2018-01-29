@@ -15,6 +15,8 @@ from Utilities import Utilities
 from Logger import Logger
 #from cleverbot import Cleverbot
 # import clever
+# from chatterbot import ChatBot
+
 
 client = discord.Client()
 media_poster = MediaPoster()
@@ -119,3 +121,4 @@ async def invite(message, client):
 
 while(1):
     client.run(Constants.TOKEN)
+    # client.run(Constants.TESTING_TOKEN)
