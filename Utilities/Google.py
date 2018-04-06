@@ -23,7 +23,7 @@ async def web_search(message, client):
             link_to_send = link.get('href')[7:]
             break;
 
-    link_to_send = link_to_send[:link_to_send.index('&')]
+    link_to_send = urllib.parse.unquote(link_to_send[:link_to_send.index('&')])
 
     return link_to_send
 
