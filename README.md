@@ -1,7 +1,7 @@
-Test fork for testing new modules and generally fucking around(read: for me).
+Test fork for testing new modules and generally messing around(read: for me).
 
 ># CamelBot
->Discord shitposting and other functionality
+>Discord nonserious utilities and other functionality
 >
 >Here's the source code for any who are interested. Feel free to PM with queries on Discord @Cat_Smoker#3572.
 >
